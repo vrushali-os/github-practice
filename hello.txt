@@ -1,0 +1,5 @@
+Hello! My name is Vrushali.
+
+I am learning Git and GitHub from zero.
+
+This is my first practice file.
